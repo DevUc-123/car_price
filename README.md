@@ -1,2 +1,2 @@
 # car_price
-Car Price PRediction Model .It is a ML model used with the help of Regression.
+A Machine Learning Project that uses Random Forest Regressor model to predict used cars price based on some attributes such as kilometers driven, age, number of previous owners etc.
